@@ -1,0 +1,64 @@
+<!--
+  Generated template for the LoginPage page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-content class=" auth-bg">
+
+  <div class="auth-content">
+
+    <div class="light-bg">
+
+      <!-- Logo -->
+      <div padding text-center>
+        <div class="logo primary-bg">
+          <i class="icon-sedan" ion-text color="light" ></i>
+        </div>
+        <h2 ion-text color="dark" >
+          Blanes Mobility
+        </h2>
+        <p ion-text color="dark" >Plataforma de Mobilidade Blanes</p>
+      </div>
+
+      <!-- Login form -->
+
+      <ion-list class="list-form" padding>
+
+        <ion-item>
+          <ion-input type="text" placeholder="Email ou Usuário"></ion-input>
+        </ion-item>
+
+        <ion-item>
+          <ion-input type="password" placeholder="Senha"></ion-input>
+        </ion-item>
+
+      </ion-list>
+
+      <div padding>
+        <button  ion-button color="primary"  block (click)="login()">
+          Acessar
+        </button>
+      </div>
+
+    </div>
+
+    <div padding=""></div>
+
+    <!-- Other links -->
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <span ion-text color="light" >Esqueceu a senha?</span>
+        </ion-col>
+        <ion-col>
+          <span ion-text color="light" >
+            Novo usuário?
+            <span ion-text color="primary"  (click)="signup()">Cadastrar</span>
+          </span>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
+  </div>
+</ion-content>

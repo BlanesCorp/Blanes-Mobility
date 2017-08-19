@@ -1,0 +1,152 @@
+ionic cordova plugin add cordova-plugin-nativegeocoder
+ionic cordova plugin add cordova-plugin-geolocation
+ionic cordova plugin add cordova-plugin-request-location-accuracy
+
+npm install @ionic-native/geolocation --save
+npm install @ionic-native/native-geocoder --save
+npm install @ionic-native/location-accuracy --save
+
+npm install @types/leaflet --save
+npm install leaflet --save
+
+
+npm install @asymmetrik/angular2-leaflet
+npm install leaflet-plugins --save
+
+
+
+npm install @ionic-native/base64 --save
+
+npm install ts-md5 --save
+
+npm install crypto-js --save
+npm install moments --save
+
+npm install angular2-moment/module --save
+
+
+
+
+
+
+
+--------------------------
+Menu
+Splash
+  Logo Blanes
+
+Menu
+– Sua conta
+	– Dados pessoais
+		–  Nome
+		–  Sobrenome
+		–  Telefone
+		–  Email
+		–  Senha
+
+	–  Forma de pagamento
+		– Cartão de Crédito
+		– Cartão de Débito
+		– Nome do Cartão
+		– Número
+		– Data de Expiração
+		– Código de Segurança
+	 	
+– Histórico de viagens
+
+– Informações
+	– Ônibus
+		Corredores
+		Pontos
+		Linhas
+		Itinerário
+	– Taxis
+	
+		Pontos de Taxi
+			56 Pontos
+– Configurações
+	– Ocultar Trânsito
+– Limpar Histórico
+
+– Achados e Perdidos 
+
+– Termos de Uso
+
+– Sobre 
+
+Deseja realmente Sair?	
+	Não
+	Sim
+
+
+
+
+https://docs.mongodb.com/manual/core/aggregation-pipeline/
+https://docs.mongodb.com/manual/core/map-reduce/
+
+
+
+------------------------------
+cadastro
+Resposta: {"protocolo":"201700817727","status":"IDE","resultado":"SUC","similares":[]}
+
+
+---------------------------
+future
+
+https://pt.slideshare.net/PedroFranceschi/nodejs-no-pagarme
+https://github.com/Unitech/pm2
+
+height: 24px;
+ng-style="{'line-height': '250px'}"
+
+
+https://developers.google.com/maps/documentation/javascript/examples/geocoding-simple
+
+https://ionicframework.com/docs/native/google-maps/
+
+http://eimagine.com/basic-geolocation-of-an-address-in-ionic-framework/
+
+https://www.bjornblog.com/web/jquery-store-locator-plugin
+http://patrickr.xyz/ionic/2016/12/01/ionic2-leaflet.html
+http://leafletjs.com/examples/layers-control/example.html
+https://stackoverflow.com/questions/39976098/usage-of-leaflet-with-ionic2-typescript
+
+
+https://www.flaticon.com/free-icon/car-of-formula-1_55299
+https://glyphter.com/
+
+https://market.ionic.io/themes/whatsapp-like-chat-app-using-ionic-framework
+
+    /*
+    headers.append('Access-Control-Allow-Methods', 'GET, HEAD, OPTIONS, POST, PUT, DELETE');
+    headers.append('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+    headers.append("Cache-control", "no-cache");
+    headers.append('Access-Control-Allow-Origin', '*');
+    headers.append('Access-Control-Allow-Headers', 'Access-Control-Allow-Origin, Origin, X-Requested-With, Content-Type, Authorization, Date, X-Requested-Date, cache-control, x-requested-with');
+    headers.append('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization, Date, X-Requested-Date, cache-control');
+    headers.append('Origin', 'http://localhost');
+    */
+
+
+---------------
+ferramentas
+
+http://www.colorzilla.com/gradient-editor/
+
+
+
+Web Application
+---------------------------------------
+Build a Progressive Web App with Firebase and Polymerfire and Polymer Components
+
+https://codelabs.developers.google.com/codelabs/polymer-firebase-pwa/index.html?index=../../index#0
+
+https://pwa-gdg-850d5.firebaseapp.com/
+
+https://www.polymer-project.org/2.0/toolbox/routing
+
+https://console.firebase.google.com/project/pwa-gdg-850d5/database/data/
+
+github bash
+https://console.firebase.google.com/project/pwa-gdg-850d5/authentication/providers
