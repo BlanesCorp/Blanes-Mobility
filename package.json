@@ -1,7 +1,7 @@
 {
-    "name": "ionic-hello-world",
-    "author": "Ionic Framework",
-    "homepage": "http://ionicframework.com/",
+    "name": "Blanes-Mobility",
+    "author": "Luiz Blanes",
+    "homepage": "http://www.blanes.com.br/",
     "private": true,
     "scripts": {
         "build": "ionic-app-scripts build",
@@ -54,7 +54,7 @@
         "ionic": "3.7.0",
         "typescript": "2.3.4"
     },
-    "description": "ionic2_taxi: An Ionic project",
+    "description": "Blanes Mobility",
     "cordovaPlugins": [],
     "cordovaPlatforms": [],
     "cordova": {
